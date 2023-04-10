@@ -7,9 +7,6 @@ Netflix, Inc. is a streaming platform and production company that has been growi
 # Introduction
 This report provides an in-depth financial analysis of Netflix, focusing on the company's performance over the past decade and its prospects for the future. The report also examines the risks associated with Netflix's business model and how the company can mitigate these risks.
 
-# Background and Literature Review
-Netflix was founded in 1997 and started as an online DVD rental and delivery company. By 2007, the company had shifted its primary focus to online streaming of its video library. Netflix has grown significantly since then and now has over 209 million subscribers in more than 190 countries. The company has also won several awards, including two Oscars.
-
 # Business Model
 Netflix operates through different segments, including domestic and international streaming, and domestic DVD. The company's revenue comes primarily from subscriptions, which is also the company's main source of risk.
 
@@ -17,6 +14,12 @@ Netflix has recently made an announcement regarding a monthly premium membership
 
 # Financial Analysis
 This report analyzes Netflix's financial performance over the past 10 years, highlighting areas of growth and identifying potential areas for improvement. The report also predicts the company's financial performance over the next ten years, using revenue and other factors to calculate the net present value and internal rate of return.
+
+This section provides an analysis of Netflix's financial performance over a decade-long period, from 2011 to 2020. During this time, the company's revenue grew from 3.21 billion to 25 billion, representing an increase of 8.06%. Meanwhile, the cost of revenue increased from 2.05 billion to 15.28 billion, indicating an increase of 7.45%. Table 1 displays the financial statement of Netflix for the aforementioned period. Notably, the company's net income surged from 226 million in 2011 to 2.76 billion in 2020. Fig. 1 and Fig. 2 illustrate Netflix's revenue and net income trends over the same period, respectively.
+
+
+<img width="474" alt="Screenshot 2023-04-10 134126" src="https://user-images.githubusercontent.com/94572320/230994405-efe596c1-5d86-4a30-9688-9eea90b95675.png">
+
 
 # Conclusion
 Netflix faces several risks associated with its business model, including intense competition and dependence on subscriptions for revenue. However, by managing these risks effectively, the company can continue to grow and succeed in the highly competitive streaming industry.
