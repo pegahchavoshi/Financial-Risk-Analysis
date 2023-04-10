@@ -16,9 +16,9 @@ Netflix has recently made an announcement regarding a monthly premium membership
 
 This section provides an analysis of Netflix's financial performance over a decade-long period, from 2011 to 2020. During this time, the company's revenue grew from 3.21 billion to 25 billion, representing an increase of 8.06%. Meanwhile, the cost of revenue increased from 2.05 billion to 15.28 billion, indicating an increase of 7.45%. Table 1 displays the financial statement of Netflix for the aforementioned period. Notably, the company's net income surged from 226 million in 2011 to 2.76 billion in 2020. Fig. 1 and Fig. 2 illustrate Netflix's revenue and net income trends over the same period, respectively.
 
-
+<p align="center">
 <img width="474" alt="Screenshot 2023-04-10 134126" src="https://user-images.githubusercontent.com/94572320/230994405-efe596c1-5d86-4a30-9688-9eea90b95675.png">
-
+</p>
 
 # Conclusion
 Netflix faces several risks associated with its business model, including intense competition and dependence on subscriptions for revenue. However, by managing these risks effectively, the company can continue to grow and succeed in the highly competitive streaming industry.
