@@ -37,14 +37,11 @@ The Monte Carlo simulation method was used in this model to predict the probabil
 
 
 <p align="center">
-<img width="491" alt="Screenshot 2023-04-10 135049" src="https://user-images.githubusercontent.com/94572320/230996549-b032bd7f-1ecc-49bb-8cd0-9fa846dac97a.png">
+<img width="490" alt="Screenshot 2023-04-10 135552" src="https://user-images.githubusercontent.com/94572320/230997331-019aba06-5e3d-46fa-806a-da8f6e60df26.png">
 </p>
 
 <p align="center">
   <img width="191" alt="Screenshot 2023-04-10 135258" src="https://user-images.githubusercontent.com/94572320/230996883-4e714e29-cd61-43d7-b759-07b528b41239.png">
-</p>
-
-<p align="center">
   <img width="449" alt="Screenshot 2023-04-10 135331" src="https://user-images.githubusercontent.com/94572320/230996958-a158d2a3-90f4-4821-8dee-5f949863cb07.png">
 </p>
  
