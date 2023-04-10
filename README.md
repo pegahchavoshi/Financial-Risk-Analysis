@@ -12,6 +12,7 @@ Netflix was founded in 1997 and started as an online DVD rental and delivery com
 
 # Business Model
 Netflix operates through different segments, including domestic and international streaming, and domestic DVD. The company's revenue comes primarily from subscriptions, which is also the company's main source of risk.
+Netflix has recently made an announcement regarding a monthly premium membership rate increase from $12.99 to $17.99, resulting in a $4 hike. The impact of this decision will be analyzed through the use of historical data to compare previous and future cash flows. The model presented here provides an analysis of uncertainty in financial forecasting for Netflix, as the company weighs the decision of whether or not to increase its membership costs.
 
 # Financial Analysis
 This report analyzes Netflix's financial performance over the past 10 years, highlighting areas of growth and identifying potential areas for improvement. The report also predicts the company's financial performance over the next ten years, using revenue and other factors to calculate the net present value and internal rate of return.
