@@ -72,5 +72,30 @@ The monthly revenue per user is best represented by the "Kumaraswamy" distributi
  <img width="169" alt="Screenshot 2023-04-10 145544" src="https://user-images.githubusercontent.com/94572320/231006644-330bca57-ca25-47a3-a71c-604060e7d9f3.png">
 </p>
  
+ 
+  <p align="center">
+<img width="521" alt="Screenshot 2023-04-10 145717" src="https://user-images.githubusercontent.com/94572320/231006860-289e69ac-8d5d-4fb7-abb3-50f915467462.png">
+</p>
+ 
+ After fitting uncertain inputs with appropriate distributions and calculating cash flows, outputs were obtained. Based on the cash flow analysis, the net present value (NPV) of the project is $72,541,061,388, and the internal rate of return (IRR) is 81%. NPV is the difference between the present value of cash inflows and outflows over a specified time period, and it depends on the internal rate of return, which is 21% in this case. NPV measures the added value to the company resulting from the project. On the other hand, IRR represents the expected annual rate of growth the investment will generate and is the internal rate at which the NPV is zero. The equations used to calculate NPV and IRR in this model are:
+ 
+ 
+  <p align="center">
+<img width="455" alt="Screenshot 2023-04-10 150145" src="https://user-images.githubusercontent.com/94572320/231007478-62ff9862-622e-4217-841d-6b7b742de554.png">
+</p>
+
+ Based on the results displayed in Figure 8, the net present value (NPV) is estimated to be within the range of -$1.133 × 10^10 to $2.394 × 10^10. This suggests that there is a 99.8% probability that the NPV value falls between -$11.25 billion and $23.75 billion.
+ 
+  <p align="center">
+<img width="473" alt="Screenshot 2023-04-10 150326" src="https://user-images.githubusercontent.com/94572320/231007716-f07821ee-47c3-4bd5-99e1-6e44071f6998.png">
+</p>
+ 
+ The analysis shows that Netflix has high profitability potential with an 81% internal rate of return. Tax rate has the greatest impact on outputs, and subscriber growth has the least. This implies that tax planning is crucial, but maintaining and expanding the subscriber base remains critical for long-term success. These insights can inform decision-making and help allocate resources effectively to maximize profitability and minimize risk.
+ 
+ <p align="center">
+<img width="392" alt="Screenshot 2023-04-10 150527" src="https://user-images.githubusercontent.com/94572320/231008002-6171753e-5800-47df-880a-35cf9688a6ba.png">
+</p>
+ 
+ 
 # Conclusion
 Netflix faces several risks associated with its business model, including intense competition and dependence on subscriptions for revenue. However, by managing these risks effectively, the company can continue to grow and succeed in the highly competitive streaming industry.
