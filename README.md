@@ -68,8 +68,9 @@ parameters of 2.4607 and 13128700000. As shown in Figure 6, the mean value and e
 
 The monthly revenue per user is best represented by the "Kumaraswamy" distribution with parameters of 1.1704, 0.28195, 0, and 10.820. As shown in Figure 7, the mean, median, and standard deviation are calculated and displayed. The probability density function (pdf) can be calculated using the following equation:
 
-fx=abxa-11-xac-1
- 
+ <p align="center">
+ <img width="169" alt="Screenshot 2023-04-10 145544" src="https://user-images.githubusercontent.com/94572320/231006644-330bca57-ca25-47a3-a71c-604060e7d9f3.png">
+</p>
  
 # Conclusion
 Netflix faces several risks associated with its business model, including intense competition and dependence on subscriptions for revenue. However, by managing these risks effectively, the company can continue to grow and succeed in the highly competitive streaming industry.
