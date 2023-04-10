@@ -20,5 +20,10 @@ This section provides an analysis of Netflix's financial performance over a deca
 <img width="474" alt="Screenshot 2023-04-10 134126" src="https://user-images.githubusercontent.com/94572320/230994405-efe596c1-5d86-4a30-9688-9eea90b95675.png">
 </p>
 
+<p align="center">
+  <img width="270" alt="Screenshot 2023-04-10 134510" src="https://user-images.githubusercontent.com/94572320/230995198-55576d0f-d2c0-46bc-a5db-ebc72926570c.png">
+</p>
+
+
 # Conclusion
 Netflix faces several risks associated with its business model, including intense competition and dependence on subscriptions for revenue. However, by managing these risks effectively, the company can continue to grow and succeed in the highly competitive streaming industry.
