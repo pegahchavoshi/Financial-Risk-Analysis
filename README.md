@@ -47,6 +47,29 @@ The Monte Carlo simulation method was used in this model to predict the probabil
   <img width="449" alt="Screenshot 2023-04-10 135331" src="https://user-images.githubusercontent.com/94572320/230996958-a158d2a3-90f4-4821-8dee-5f949863cb07.png">
 </p>
  
+ Based on the analysis conducted, it has been determined that the most suitable distribution for representing Netflix's revenue is the "Beta General" distribution, with specific parameters of 1.6133, 1,2019, 0, and 24974507. The probability of Netflix's revenue value falling between 4.65 million and 24.11 million has been calculated to be 90%, based on the results illustrated in Figure 6. Additionally, Figure 4 displays the mean, median, and standard deviation values for this distribution. It is worth noting that the formula for calculating the Beta General pdf is x^(α-1)(1-x)^(β-1)B(α,β), where B(α,β)=Γ(α+β) and Γ is the Gamma function. Moreover, the expected value can be computed utilizing the formula Mean=α+β=14,807,741.
+
+<p align="center">
+  <img width="456" alt="Screenshot 2023-04-10 144622" src="https://user-images.githubusercontent.com/94572320/231005341-d0fec71a-093e-434e-8c3d-5d42522a8ad4.png">
+</p>
+
+The "Triangle" distribution with parameters of 0, 30.360, and 194.24 provides the best fit for the average number of Netflix subscribers. The corresponding mean, mode, median, and standard deviation values are presented in Figure 5.
+
+
+<p align="center">
+<img width="484" alt="Screenshot 2023-04-10 144943" src="https://user-images.githubusercontent.com/94572320/231005719-e2e82b39-b27a-465b-88a0-e5a58b561172.png">
+</p>
+
+parameters of 2.4607 and 13128700000. As shown in Figure 6, the mean value and expected value are both 74.87, while the median is 68.08 and the standard deviation is 42.66.
+ 
+<p align="center">
+ <img width="469" alt="Screenshot 2023-04-10 145202" src="https://user-images.githubusercontent.com/94572320/231006042-e1905d98-8c9f-46e1-8ca1-4a294d1c3ea4.png">
+</p>
+
+The monthly revenue per user is best represented by the "Kumaraswamy" distribution with parameters of 1.1704, 0.28195, 0, and 10.820. As shown in Figure 7, the mean, median, and standard deviation are calculated and displayed. The probability density function (pdf) can be calculated using the following equation:
+
+fx=abxa-11-xac-1
+ 
  
 # Conclusion
 Netflix faces several risks associated with its business model, including intense competition and dependence on subscriptions for revenue. However, by managing these risks effectively, the company can continue to grow and succeed in the highly competitive streaming industry.
