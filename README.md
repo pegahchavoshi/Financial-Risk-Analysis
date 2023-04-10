@@ -1,11 +1,9 @@
 # Financial-Risk-Analysis
 # Netflix Financial Risk Analysis
 
-# Abstract
-Netflix, Inc. is a streaming platform and production company that has been growing rapidly in recent years. This report analyzes Netflix's financial performance over the past 10 years, highlighting areas where the company has excelled and areas that need improvement. Additionally, the report predicts the company's performance over the next ten years, using revenue and other factors to calculate the net present value and internal rate of return. The report concludes by discussing the potential risks associated with Netflix's business model and how the company can manage these risks effectively.
 
 # Introduction
-This report provides an in-depth financial analysis of Netflix, focusing on the company's performance over the past decade and its prospects for the future. The report also examines the risks associated with Netflix's business model and how the company can mitigate these risks.
+Netflix, Inc. is a streaming platform and production company that has been growing rapidly in recent years. This report analyzes Netflix's financial performance over the past 10 years, highlighting areas where the company has excelled and areas that need improvement. Additionally, the report predicts the company's performance over the next ten years, using revenue and other factors to calculate the net present value and internal rate of return. The report concludes by discussing the potential risks associated with Netflix's business model and how the company can manage these risks effectively.
 
 # Business Model
 Netflix operates through different segments, including domestic and international streaming, and domestic DVD. The company's revenue comes primarily from subscriptions, which is also the company's main source of risk.
@@ -95,7 +93,10 @@ The monthly revenue per user is best represented by the "Kumaraswamy" distributi
  <p align="center">
 <img width="392" alt="Screenshot 2023-04-10 150527" src="https://user-images.githubusercontent.com/94572320/231008002-6171753e-5800-47df-880a-35cf9688a6ba.png">
 </p>
+
+# Result
  
+ The analysis indicates that Netflix has experienced significant international subscriber base growth over the past decade, with the highest rate observed between 2016 and 2018. While subscriber growth has slowed down since then, even losing some subscribers may not have a significant impact on the company's revenue, as long as it continues to increase its overall membership. These insights can inform Netflix's strategies for subscriber acquisition and retention to maximize its revenue potential in the competitive streaming industry.
  
 # Conclusion
 Netflix faces several risks associated with its business model, including intense competition and dependence on subscriptions for revenue. However, by managing these risks effectively, the company can continue to grow and succeed in the highly competitive streaming industry.
