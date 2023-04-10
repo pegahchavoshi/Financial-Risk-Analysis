@@ -31,7 +31,12 @@ Revenue = Initial Revenue x Fixed Annual Growth Rate + Initial Revenue + (Averag
   <img width="495" alt="Screenshot 2023-04-10 134810" src="https://user-images.githubusercontent.com/94572320/230995825-c5b5947a-ada7-43d0-88d5-fd714094e89e.png">
 </p>
 
-The Monte Carlo simulation method was used in this model to predict the probability of various outcomes when random variables are introduced. One such variable is the tax rate, which was assigned a value of 37% with a "Normal" distribution. As shown in Table 1, the range of possible values for this input is -34.384% to 63.006%, with parameters of 0.1268 and 0.15094. The normal distribution is a continuous probability distribution with a probability density function of fx=1/√(2πσ^2) * e^(-(x-μ)^2/2σ^2). The mean and standard deviation of the tax rate are also calculated in the table. The graph in Fig. 3 shows a 91.4% chance that the tax rate will fall between -0.152 and 0.370. The expected value of the tax rate is equal to its mean, which is 0.1268.
+The Monte Carlo simulation method was used in this model to predict the probability of various outcomes when random variables are introduced. One such variable is the tax rate, which was assigned a value of 37% with a "Normal" distribution. As shown in Table 1, the range of possible values for this input is -34.384% to 63.006%, with parameters of 0.1268 and 0.15094. The normal distribution is a continuous probability distribution with a probability density function of:
+<p align="center">
+<img width="148" alt="Screenshot 2023-04-10 151356" src="https://user-images.githubusercontent.com/94572320/231009227-3c9c2309-89de-4ebe-8520-0598d3a689b3.png">
+
+</p>
+The mean and standard deviation of the tax rate are also calculated in the table. The graph in Fig. 3 shows a 91.4% chance that the tax rate will fall between -0.152 and 0.370. The expected value of the tax rate is equal to its mean, which is 0.1268.
 
 
 <p align="center">
