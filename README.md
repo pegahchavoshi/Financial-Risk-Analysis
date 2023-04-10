@@ -36,7 +36,18 @@ Revenue = Initial Revenue x Fixed Annual Growth Rate + Initial Revenue + (Averag
 The Monte Carlo simulation method was used in this model to predict the probability of various outcomes when random variables are introduced. One such variable is the tax rate, which was assigned a value of 37% with a "Normal" distribution. As shown in Table 1, the range of possible values for this input is -34.384% to 63.006%, with parameters of 0.1268 and 0.15094. The normal distribution is a continuous probability distribution with a probability density function of fx=1/√(2πσ^2) * e^(-(x-μ)^2/2σ^2). The mean and standard deviation of the tax rate are also calculated in the table. The graph in Fig. 3 shows a 91.4% chance that the tax rate will fall between -0.152 and 0.370. The expected value of the tax rate is equal to its mean, which is 0.1268.
 
 
+<p align="center">
+<img width="491" alt="Screenshot 2023-04-10 135049" src="https://user-images.githubusercontent.com/94572320/230996549-b032bd7f-1ecc-49bb-8cd0-9fa846dac97a.png">
+</p>
 
+<p align="center">
+  <img width="191" alt="Screenshot 2023-04-10 135258" src="https://user-images.githubusercontent.com/94572320/230996883-4e714e29-cd61-43d7-b759-07b528b41239.png">
+</p>
 
+<p align="center">
+  <img width="449" alt="Screenshot 2023-04-10 135331" src="https://user-images.githubusercontent.com/94572320/230996958-a158d2a3-90f4-4821-8dee-5f949863cb07.png">
+</p>
+ 
+ 
 # Conclusion
 Netflix faces several risks associated with its business model, including intense competition and dependence on subscriptions for revenue. However, by managing these risks effectively, the company can continue to grow and succeed in the highly competitive streaming industry.
