@@ -25,5 +25,18 @@ This section provides an analysis of Netflix's financial performance over a deca
 </p>
 
 
+The model presented herein provides a forecast of Netflix's cash flow for the next ten years, incorporating uncertain inputs such as revenue, tax rate, average number of subscribers, cost of goods sold, average monthly revenue per paid subscriber, and operating expenses. Fixed annual growth rate for revenue and subscription cost growth, as well as an annual loss rate, were also considered in the model (refer to Table 2 for details). The future cash flow was computed by factoring in the calculated revenue, annual growth rate, tax, loss, and subscription cost per user. For example, the revenue for the years 2021 to 2030 was calculated using the following formula:
+
+Revenue = Initial Revenue x Fixed Annual Growth Rate + Initial Revenue + (Average Monthly Revenue per Paid Subscriber x 12 months)
+
+<p align="center">
+  <img width="495" alt="Screenshot 2023-04-10 134810" src="https://user-images.githubusercontent.com/94572320/230995825-c5b5947a-ada7-43d0-88d5-fd714094e89e.png">
+</p>
+
+The Monte Carlo simulation method was used in this model to predict the probability of various outcomes when random variables are introduced. One such variable is the tax rate, which was assigned a value of 37% with a "Normal" distribution. As shown in Table 1, the range of possible values for this input is -34.384% to 63.006%, with parameters of 0.1268 and 0.15094. The normal distribution is a continuous probability distribution with a probability density function of fx=1/√(2πσ^2) * e^(-(x-μ)^2/2σ^2). The mean and standard deviation of the tax rate are also calculated in the table. The graph in Fig. 3 shows a 91.4% chance that the tax rate will fall between -0.152 and 0.370. The expected value of the tax rate is equal to its mean, which is 0.1268.
+
+
+
+
 # Conclusion
 Netflix faces several risks associated with its business model, including intense competition and dependence on subscriptions for revenue. However, by managing these risks effectively, the company can continue to grow and succeed in the highly competitive streaming industry.
