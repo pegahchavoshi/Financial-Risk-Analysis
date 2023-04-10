@@ -1,5 +1,5 @@
-# Financial-Risk-Analysis Using Palisade
-# Netflix Financial Risk Analysis
+# Financial-Risk-Analysis
+# Netflix Financial Risk Analysis using Palisade Software (@Risk)
 
 
 # Introduction
