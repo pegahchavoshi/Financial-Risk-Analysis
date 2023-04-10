@@ -42,7 +42,7 @@ The Monte Carlo simulation method was used in this model to predict the probabil
   <img width="191" alt="Screenshot 2023-04-10 135258" src="https://user-images.githubusercontent.com/94572320/230996883-4e714e29-cd61-43d7-b759-07b528b41239.png">
   </p>
  <p align="center">
-  <img width="449" alt="Screenshot 2023-04-10 135331" src="https://user-images.githubusercontent.com/94572320/230996958-a158d2a3-90f4-4821-8dee-5f949863cb07.png">
+<img width="406" alt="Screenshot 2023-04-10 151115" src="https://user-images.githubusercontent.com/94572320/231008755-3d2bde02-d2ad-41a2-a752-11b2cf316608.png">
 </p>
  
  Based on the analysis conducted, it has been determined that the most suitable distribution for representing Netflix's revenue is the "Beta General" distribution, with specific parameters of 1.6133, 1,2019, 0, and 24974507. The probability of Netflix's revenue value falling between 4.65 million and 24.11 million has been calculated to be 90%, based on the results illustrated in Figure 6. Additionally, Figure 4 displays the mean, median, and standard deviation values for this distribution. It is worth noting that the formula for calculating the Beta General pdf is x^(α-1)(1-x)^(β-1)B(α,β), where B(α,β)=Γ(α+β) and Γ is the Gamma function. Moreover, the expected value can be computed utilizing the formula Mean=α+β=14,807,741.
